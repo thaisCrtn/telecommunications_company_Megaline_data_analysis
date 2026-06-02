@@ -32,11 +32,13 @@ Data Preparation and Cleaning: Data was corrected; dates converted to datetime, 
 > Revenue: The Surf plan generates more average monthly revenue (≈282) than the Ultimate plan (166), due to charges for excess usage; Surf's revenue is more variable (variance ≈26647), while Ultimate's is more stable (≈7624).
 > Hypothesis tests: Surf vs Ultimate: p-value = 0. We reject the null hypothesis. There is a significant difference in revenue between the plans; NY-NJ vs other regions: p-value = 0.004. We reject the null hypothesis. There is a significant difference in revenue by region.
 
-Based on 500 Megaline customers throughout 2018, it is concluded that the Surf plan generates more total revenue for the company, while the Ultimate plan presents a more stable and higher average revenue per user, although with a lower total volume due to the smaller number of subscribers in the sample.
-As a recommendation, the commercial department should direct most of its advertising budget towards acquiring new customers for the Surf plan.**
+> Based on 500 Megaline customers throughout 2018, it is concluded that the Surf plan generates more total revenue for the company, while the Ultimate plan presents a more stable and higher average revenue per user, although with a lower total volume due to the smaller number of subscribers in the sample.
+> As a recommendation, the commercial department should direct most of its advertising budget towards acquiring new customers for the Surf plan.**
 ---
 
 ## 📂 How to Run This Project
 1. Clone this repository.
 2. Ensure you have `pandas`, `numpy`, `matplotlib`, and `scipy` installed.
 3. Open the Jupyter Notebook `megaline_analysis.ipynb` and run the cells.
+
+Download the complete database here : https://drive.google.com/drive/folders/1JBDWfbi7cJth9wpRFe0W3-_O1KCfq0Cm?usp=drive_link
