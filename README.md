@@ -23,7 +23,7 @@ This project focuses on analyzing customer behavior and revenue optimization for
 
 ---
 
-## 🎯 General Conclusion (Conclusão Geral)
+## 🎯 General Conclusion 
 > ⚠️ **The objective of this project was to analyze the behavior of 500 Megaline customers to determine which phone plan generates more revenue and to guide the marketing strategy.
 Data Preparation and Cleaning: Data was corrected; dates converted to datetime, call durations rounded up (charged by the full minute), MB converted to GB; is_active column created to identify active customers; no critical missing data was found (NaN in churn_date indicates active customers).
 > User Behavior - Calls: The average minutes used is very similar between plans, ≈428 min (Surf) vs ≈430 min (Ultimate); Call behavior is practically the same between the two plans.
